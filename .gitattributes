@@ -1,1 +1,4 @@
+*.meta linguist-vendored
 *.meta linguist-generated
+
+LICENSE.md.meta -linguist-detectable
