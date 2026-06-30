@@ -1,0 +1,18 @@
+{
+    "name": "RedOni.EdgeDecal.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:41712842f14ba7e46b7b3c4de739fb87"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
