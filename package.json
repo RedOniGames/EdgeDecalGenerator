@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "displayName": "Edge Decal Generator",
   "description": "Procedural mesh decal generator for object edges. Supports ProBuilder and Trim Atlases.",
-  "unity": "6000.0.62f1",
+  "unity": "6000.0",
   "author": {
     "name": "RedOniTools",
     "url": "https://github.com/RedOniGames"
